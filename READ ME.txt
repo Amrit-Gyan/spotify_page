@@ -1,0 +1,3 @@
+Introducing Spotify Clone
+
+If you're a music lover, you'll be delighted to explore our Spotify clone project, a nostalgic musical experience inspired by the popular Spotify app. While it may not boast the extensive library of the original, our clone project brings you the essence of Spotify with a curated selection of locally stored songs. This project is built on HTML, CSS, and JavaScript.
